@@ -8,7 +8,7 @@
 
 ### 開発者などへのリンク
  - [新杨XIYAG](https://space.bilibili.com/8179669)
- - [Carbnuts](https://x.com/Kani_Natto_)
+ - [Crabnuts](https://x.com/Kani_Natto_)
  - [Luci](https://x.com/luci_animates/)
 
 ## 使用方法
@@ -44,7 +44,7 @@ This shader was originally developed by "**新杨XIYAG**" on bilibili. It's incl
 ### Links to Developers and Related Parties:
 
 *   [**新杨XIYAG**](https://space.bilibili.com/8179669) (Original Shader Developer)
-*   [**Carbnuts**](https://x.com/Kani_Natto_) (Rig Developer)
+*   [**Crabnuts**](https://x.com/Kani_Natto_) (Rig Developer)
 *   [**Luci**](https://x.com/luci_animates/) (Material optimized)
 
 ## Instructions for Use
